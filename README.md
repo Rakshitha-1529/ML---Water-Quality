@@ -56,13 +56,4 @@ The model is trained on a dataset of water quality indicators and classifies sam
 - Best Hyperparameters (via GridSearchCV):
   {'n_neighbors':auto, 'algorithm': '11', 'p':3}
 
-  ##How to  Run This Project
-
-  -Clone this repository:
-  git clone https://github.com/your-username/water-quality-prediction.git
-  cd water-quality-prediction
-  -Install dependencies:
-  pip install -r requirements.txt
-  -Run the notebook:
-  jupyter notebook Water_Quality_Prediction.ipynb
   
